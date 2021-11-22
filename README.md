@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sheheatah</h1>
 <h3 align="center">A passionate Android developer from Egypt</h3>
 
+- 🔭 I’m currently working as **Freelancer**
+
+- 🌱 I’m currently learning **Jetpack Compose & Data Strucutre and alogrithms**
+
+- 📫 How to reach me **ahmed2002.eg@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
