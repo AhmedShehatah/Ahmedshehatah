@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a **Student**
 
-- 🌱 I’m currently learning **Jetpack Compose & Data Strucutre and alogrithms**
+- 🌱 I’m currently learning **Embedded Systems**
 
 - 📫 How to reach me **ahmed2002.eg@gmail.com**
 
