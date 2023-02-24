@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sheheatah</h1>
-<h3 align="center">A passionate Android developer from Egypt</h3>
+<h3 align="center">Electrical & Electronics Engineering Student</h3>
 
 - 🔭 I’m currently a **Student**
 
