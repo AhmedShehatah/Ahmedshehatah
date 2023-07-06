@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Sheheatah</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Shehatah</h1>
 <h3 align="center">Electrical & Electronics Engineering Student</h3>
 
 - 🔭 I’m currently a **Student**
