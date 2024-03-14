@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shehatah</h1>
-<h3 align="center">Electrical & Electronics Engineering Student</h3>
+<h3 align="center">Mobile Software Engineer</h3>
 
-- 🔭 I’m currently a **Student**
 
-- 🌱 I’m currently learning **Embedded Systems**
 
 - 📫 How to reach me **ahmed2002.eg@gmail.com**
 
